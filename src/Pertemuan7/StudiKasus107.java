@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class StudiKasus107 {
     public static void main(String[] args) {
         Scanner Denis = new Scanner(System.in);
-        int hargaPerCup = 15000;
+        int hargaPerCup = 18000;
         int jumlahCup, uangBayar, totalHarga, totalBayar, kembalian, kurang;
 
         System.out.print("Masukkan jumlah cup : ");
